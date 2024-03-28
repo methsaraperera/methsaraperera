@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **methsaraperera/methsaraperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Methsara Perera, an ambitious Software Engineer committed to making a positive impact in the world of technology. Currently, in my second year at CUNY Borough of Manhattan Community College, I am dedicated to advancing my knowledge and skills in the realm of technology.
+
+### 💡 About Me:
+I have always been fascinated by the intersection of technology and creativity, and my goal is to leverage this passion to make a meaningful impact in the digital landscape. From programming languages to data structures, I'm continuously expanding my skill set to solve real-world challenges and contribute to innovative solutions.
+
+### 🤝 Let's Connect:
+I place immense value on networking and forging valuable professional connections. If you are interested in discussing potential collaborations, job opportunities, or industry insights, please don't hesitate to reach out on my [LinkedIn](https://www.linkedin.com/in/methsaraperera/). I would be delighted to connect with like-minded individuals in the tech community.
